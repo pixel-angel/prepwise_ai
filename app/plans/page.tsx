@@ -9,7 +9,7 @@ export default async function Plans(){
     //data is a list of dictionary/map
     return(
         
-        <div className="min-h-screen bg-[#Df7] p-8">
+        <div className="min-h-screen bg-[#Df7] p-8 text-black">
             <div className="flex justify-between items-center mb-6">
                 <h1 className="text-3xl font-bold text-black">MY PLANS</h1>
                 <Link href="/" className="bg-[#D4AF37] px-5 py-3 rounded-3xl text black">

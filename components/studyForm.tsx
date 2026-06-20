@@ -31,7 +31,7 @@ export default function StudyForm() {
   return (
     //form
     <form
-      className="w-full max-w-2xl mt-7 mb-7 p-12 border rounded-2xl shadow-lg flex flex-col gap-5 bg-white"
+      className="w-full max-w-2xl mt-7 mb-7 p-12 border rounded-2xl shadow-lg flex flex-col gap-5 bg-white text-black"
       onSubmit={handleSubmit}
     >
         <div className="flex flex-row  justify-between">
